@@ -1,7 +1,6 @@
 
 library(glue)
 library(data.table)
-library(readxl)
 library(curl)
 
 

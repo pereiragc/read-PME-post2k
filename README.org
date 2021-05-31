@@ -1,0 +1,4 @@
+
+* Things to implement
+1. Override default dictionary (low priority)
+2. Read locally downloaded files
